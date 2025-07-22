@@ -1,0 +1,20 @@
+# Arquivos de segredos e credenciais
+.streamlit/secrets.toml
+*.env
+
+# Pastas de ambiente virtual
+venv/
+env/
+.venv/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
